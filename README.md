@@ -8,7 +8,6 @@ I'm passionate about bridging the gap between business processes and technical s
 * 🌱 **Learning / 探索领域:** Cybersecurity, Computer Science，UI Design / 网络安全，计算机科学与UI设计
 * 🎯 **Target / 近期目标:** Seeking an internship starting **Feb 2027** / 积极寻找 2027年2月 开始的实习机会
 * ⚡ **Fun Fact / 个人爱好:** When I'm not coding, I enjoy video games, astrology, and Chinese horoscopes! / 写代码之余，我喜欢打电玩，也爱研究星盘和十二生肖！
-* 📫 **Reach me at / 联系方式:** [chinweibin@1utar.my]
 
 ---
 
